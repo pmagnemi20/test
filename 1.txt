@@ -1,1 +1,1 @@
-Stable code+fix vulnerabilities
+Stable code+fix vulnerabilities+bugs
